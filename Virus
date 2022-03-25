@@ -1,0 +1,9 @@
+from turtle import
+speed(50)
+color('cyan')
+bgcolor('black')
+b=300
+while b>1:
+left(b)
+forward(b)
+b=b-1
